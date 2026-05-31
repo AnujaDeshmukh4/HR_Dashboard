@@ -203,12 +203,11 @@ All copyrights and trademarks remain the property of their respective owners."
 
 
 ![logo](teamwork.png) 
-![logo](calendar-1.png) 
-![logo](filter-1.png)
- ![logot](human-1.png) 
- ![logo](rupee-indian-1.png) 
- ![logo](stats.png)
-
+![logo](calendar.png) 
+![logo](filter.png) 
+![logo](human.png)
+ ![logo](rupee-indian.png)
+  ![logo](stats.png)
  above logo and images are taken from     ------     https://www.flaticon.com/
 
 
