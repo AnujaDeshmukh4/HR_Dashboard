@@ -190,7 +190,7 @@ Business Intelligence
 Storytelling with Data
 📷 Dashboard Preview
 
-![snapshot_hr](snapshot_hr.png)
+![snapshot](snapshot_hr.png)
 
 
 
@@ -211,7 +211,7 @@ All copyrights and trademarks remain the property of their respective owners."
 
  above logo and images are taken from     ------     https://www.flaticon.com/
 
- 
+
 👤 Author
 
 Anuja Deshmukh
