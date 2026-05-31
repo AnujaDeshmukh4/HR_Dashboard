@@ -190,6 +190,28 @@ Business Intelligence
 Storytelling with Data
 📷 Dashboard Preview
 
+![snapshot_hr](snapshot_hr.png)
+
+
+
+images& logo
+"Certain materials, including logos and images, 
+are included in this educational data analytics 
+dashboard under the fair use provision of the Indian Copyright Act, 1957. 
+These materials are used strictly for educational, non-commercial purposes. 
+All copyrights and trademarks remain the property of their respective owners."
+
+
+![logo](teamwork.png) 
+![logo](calendar-1.png) 
+![logo](filter-1.png)
+ ![logot](human-1.png) 
+ ![logo](rupee-indian-1.png) 
+ ![logo](stats.png)
+
+ above logo and images are taken from     ------     https://www.flaticon.com/
+
+ 
 👤 Author
 
 Anuja Deshmukh
